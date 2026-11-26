@@ -1,5 +1,9 @@
 # The Absurd Clause Contest — entry
 
+[![make.fun · u-donrulezz-the-absurd-clause-contest-035cc0f1](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1.svg)](https://make.fun/bounty/u-donrulezz-the-absurd-clause-contest-035cc0f1?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-the-absurd-clause-contest-035cc0f1)
+[![rank](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1/mfahmiq/absurd-clause/rank.svg)](https://make.fun/bounty/u-donrulezz-the-absurd-clause-contest-035cc0f1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-the-absurd-clause-contest-035cc0f1)
+[![reward](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1/mfahmiq/absurd-clause/reward.svg)](https://make.fun/bounty/u-donrulezz-the-absurd-clause-contest-035cc0f1?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-the-absurd-clause-contest-035cc0f1)
+
 One original English sentence (148 characters), phrased as an absurd clause
 buried deep inside a terms-of-service agreement:
 
@@ -27,7 +31,3 @@ exiting non-zero on any failure.
   tournament bracket that selected the champion.
 - `README.md` — this file.
 - `LICENSE` — MIT.
-
-## Badges
-
-[![make.fun](https://make.fun/badge/u-donrulezz-the-absurd-clause-contest-035cc0f1.svg)](https://make.fun/c/u-donrulezz-the-absurd-clause-contest-035cc0f1)
